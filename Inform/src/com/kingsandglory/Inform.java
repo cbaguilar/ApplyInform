@@ -37,7 +37,7 @@ public final class Inform extends JavaPlugin implements Listener {
 	    	getLogger().info("Hey! some noob joined!");
 	    	Player p =  join.getPlayer();
 	    	if (p.hasPermission("Inform.recieve")){
-	    	p.sendMessage("§6§lGo to §cwww.KingAndGlory.com §6to Apply, check updates, and browse the forums!");
+	    	p.sendMessage("§6§lGo to §chttp://www.KingAndGlory.com §6to Apply, check updates, and browse the forums!");
 	    	}
 	    }
 }
