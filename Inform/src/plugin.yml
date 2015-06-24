@@ -1,0 +1,9 @@
+name: Inform
+main: com.kingsandglory.RpRoll
+version: 0.0
+commands:
+   roll:
+      description: Rolls a number
+      usage: /roll [number]
+      permission: Inform.recieve
+      #permission-message: You don't have RpRoll.roll
