@@ -1,6 +1,6 @@
 name: Inform
 main: com.kingsandglory.Inform
-version: 1.0
+version: 1.1
 commands:
     wut:
         description: Wut, a throwaway easter egg command. §cYAY§c
