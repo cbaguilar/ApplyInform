@@ -1,9 +1,9 @@
 name: Inform
 main: com.kingsandglory.Inform
-version: 0.0
+version: 1.0
 commands:
     wut:
-        description: Wut
+        description: Wut, a throwaway easter egg command. §cYAY§c
         usage: /wut
         #permission: Inform.recieve
         #permission-message: Inform.recieve
